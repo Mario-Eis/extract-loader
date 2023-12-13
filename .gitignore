@@ -1,5 +1,4 @@
 # Project specific
-lib
 test/dist
 examples/**/dist
 
@@ -42,3 +41,4 @@ node_modules
 
 # WebStorm/IntelliJ Project Files
 *.iml
+/.idea/
